@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css">
+	</head>
+	<body>
+		<ul>
+			<li><a href="index.html" class="active">WYNIKI</a></li>
+			<li><a href="index.html">STRZELCY</a></li>
+			<li><a href="index.html">STATYSTYKI</a></li>
+			<li><a href="index.html">MECZE</a></li>
+		</ul>
+		<table class="tabela" align="center">
+			<tr class="pierwszy">
+				<td>Pozycja</td>
+				<td>Nazwa</td>
+				<td>Mecze</td>
+				<td>Zwyciestwa</td>
+				<td>Remisy</td>
+				<td>Porazki</td>
+				<td>Bramki zdobyte</td>
+				<td>Stracone</td>
+				<td>Punkciki</td>
+			</tr>
+			<tr class="reszta">
+				<td>Pozycja</td>
+				<td>Fc po nalewce</td>
+				<td>38</td>
+				<td>27</td>
+				<td>7</td>
+				<td>4</td>
+				<td>1000</td>
+				<td>34</td>
+				<td>118</td>
+			</tr>
+		</table>
+	</body>
+</html>
